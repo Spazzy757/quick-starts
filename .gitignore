@@ -1,4 +1,6 @@
 jupyter/notebooks/*
 !jupyter/notebooks/.gitkeep
+postgres/samples/*
+!postgres/samples/.gitkeep
 
 
