@@ -15,5 +15,6 @@ make run=${APP}
 
 ### Currently supported
 
-- [x] Postgres
+- [x] Postgres (with PGAdmin)
 - [x] Jupyter Notebooks
+- [x] MongoDB
